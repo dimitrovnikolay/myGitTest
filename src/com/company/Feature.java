@@ -5,4 +5,5 @@ package com.company;
  */
 public class Feature {
     int feaure1 ;
+    int feaure3 ;
 }
